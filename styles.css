@@ -1,6 +1,9 @@
 body {
+
 	background-color: rgb(255, 255, 165);
 	font-family: "Roboto", sans-serif;
+  background-color: rgb(0, 0, 0);
+  text-align: center;
 }
 
 .image {
@@ -18,3 +21,28 @@ body {
 	border-radius: 5px;
 	box-shadow: 2px 3px #888888;
 }
+
+.image{
+    border: 5px solid white;
+    border-radius: 5px;
+    height: 450px;
+}
+
+.link-button {
+    text-decoration: none;
+    color: black;
+    border: 1px solid gray;
+    background-color: #f2f2f2;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 2px 3px #888888;
+}
+
+.link-button:hover {
+    background-color: #d9d9d9;
+}
+
+.link-button:active {
+    box-shadow: 1px 2px #888888;
+}
+
