@@ -10,10 +10,10 @@ body {
 
 .link-button {
     text-decoration: none;
-    color: black;
-    border: 1px solid gray;
-    background-color: #f2f2f2;
-    padding: 5px;
-    border-radius: 5px;
-    box-shadow: 2px 3px #888888;
+    color: rgb(255, 255, 255);
+    background-color: #727272;
+    border-radius: 3px;
+    border: none;
+    padding: 12px 24px;
+    display: inline-flex;
 }
